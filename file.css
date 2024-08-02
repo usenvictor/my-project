@@ -192,6 +192,7 @@ p{
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
+    background-color: red;
 }
 
 .campus-colum img {
