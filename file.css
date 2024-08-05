@@ -30,7 +30,7 @@ h4{
     padding-top: 15px;
 }
 .navbar{
-    background-color: #f84610;
+    background-color: #f84610; 
 }
 
 .nav-link{
@@ -450,24 +450,24 @@ h5 {
 
 
 
-@media screen {
-  }
+/* @media screen {
+  } */
   
   /* for tablet view*/
-  @media screen and (min-device-width: 1024px) and(max-device-width:768px) {}
-  
+  /* @media screen and (min-device-width: 1024px) and(max-device-width:768px) {}
+   */
   /* for mobile phones portrait or landscape viwe */
-  @media screen and (min-device-width: 320px) {
+  /* @media screen and (min-device-width: 320px) {
     .form{
         position: absolute;
         max-height: 70vh;
         font-size: -10px;
         background-size: 20rem;
     }
-  }
+  } */
   
   /* for mobile lagre */
-  @media screen and (min-device-width: 425px) {
+  /* @media screen and (min-device-width: 425px) {
     .menu ul {
        padding: 10px 9px;
        font-size: 10px;
@@ -478,9 +478,9 @@ h5 {
     .content h3{
       font-size: 50px;
     }
-  }
+  } */
   /* for mobile medium */
-  @media screen and (min-device-width: 375px) {
+  /* @media screen and (min-device-width: 375px) {
     .menu ul {
        padding: 15px 10px;
        font-size: 7px;
@@ -491,9 +491,9 @@ h5 {
      .content h3 {
       padding-top: 5rem;
     }
-  }
+  } */
   /* for mobile small */
-  @media screen and (min-device-width: 320px) {
+  /* @media screen and (min-device-width: 320px) {
     .menu ul {
        padding: 10px 10px;
        font-size: 7px;
@@ -506,10 +506,10 @@ h5 {
     }
   
   }
-  
+   */
   
   /* for iphone 4 porttarit or landscape view */
-  @media screen and (min-device-width: 280px) {
+  /* @media screen and (min-device-width: 280px) {
     .menu ul {
       padding: 3px 0px;
       font-size: 7px;
@@ -523,7 +523,7 @@ h5 {
    }
   
   }
-  
+   */
   /* for iphone 5 portrait or landscape viwe */
   @media (device-height: 568px) and(device-width:320px) and(-webkit-min-device-pixel-ratio:2) {}
   
